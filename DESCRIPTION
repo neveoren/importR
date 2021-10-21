@@ -1,0 +1,21 @@
+Package: importR
+Title: Import a Dataset
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Neve",
+           family = "Oren",
+           role = c("aut", "cre"),
+           email = "noren@wesleyan.edu")
+Description: This package imports data files from SAS, SPSS, Stata,
+    as well as Excel workbooks and delimited text files. Results 
+    are saved as an R data frame.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    haven,
+    readxl,
+    tools,
+    vroom
