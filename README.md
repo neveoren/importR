@@ -1,6 +1,7 @@
 
 # importR
 
+![](importimage.png)
 
 The goal of importR is to create an R data frame from 
 external data in SAS, SPSS, or Stata bionary files, Excel
