@@ -16,7 +16,7 @@ if(!require("remotes")){
   install.packages("remotes")
   library("remotes"")
 }
-remotes::install_github("importR")
+remotes::install_github("neveoren/importR")
 ```
 
 ## Example
